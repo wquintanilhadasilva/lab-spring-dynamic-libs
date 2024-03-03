@@ -1,6 +1,6 @@
 package com.example.lab.app.factory;
 
-import com.example.lab.commons.contracts.SystemAdapter;
+import com.example.lab.commons.SystemAdapter;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

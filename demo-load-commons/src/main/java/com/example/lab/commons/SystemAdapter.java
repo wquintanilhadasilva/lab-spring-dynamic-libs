@@ -1,4 +1,4 @@
-package com.example.lab.commons.contracts;
+package com.example.lab.commons;
 
 
 public interface SystemAdapter {

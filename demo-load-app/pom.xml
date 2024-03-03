@@ -8,7 +8,7 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.lab</groupId>
+	<groupId>com.example.lab.app</groupId>
 	<artifactId>demo-load-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo-load-app</name>

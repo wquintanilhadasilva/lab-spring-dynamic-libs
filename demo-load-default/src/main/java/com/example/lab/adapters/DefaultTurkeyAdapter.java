@@ -1,7 +1,7 @@
 package com.example.lab.adapters;
 
-import com.example.lab.commons.contracts.AdapterType;
-import com.example.lab.commons.contracts.SystemAdapter;
+import com.example.lab.commons.AdapterType;
+import com.example.lab.commons.SystemAdapter;
 import org.springframework.stereotype.Component;
 
 @Component

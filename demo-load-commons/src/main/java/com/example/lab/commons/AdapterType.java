@@ -1,4 +1,4 @@
-package com.example.lab.commons.contracts;
+package com.example.lab.commons;
 
 public enum AdapterType {
     Taco, Turkey, Modem, Computer, NULL;
