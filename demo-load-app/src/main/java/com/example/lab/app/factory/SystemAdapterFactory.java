@@ -27,7 +27,7 @@ public class SystemAdapterFactory {
                  \tof type: \{adapter.getType().toString()}
             """);
         }
-        log.info("\n-------------------------------");
+        log.info("-----------------");
 
     }
 }
